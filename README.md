@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AJBry
+- 👀 I’m interested in skateboarding, games and anime.
+- 🌱 I’m currently going to school for Computer Science believe it or not.
+- 💞️ I’m looking to collaborate on some games as I've learned over this past semester how to work together with a group and I have previous experience with languages such as:
+- Python, Java, C++, and somewhat Verilog
+- I don't have much under my belt but I am looking to change that over the summer.
+- 📫 How to reach me /I'll fix this later/
